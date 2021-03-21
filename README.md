@@ -51,7 +51,7 @@ Inspired from UNet ([Paper](https://arxiv.org/abs/1505.04597)), which is a form 
 
 The primary goal of this is to determine if a shallow end-to-end CNN can learn complicated features like human beings. Hence, as a proof of concept, this notebook has been created.
 
-The noteboks do not render properly on GitHub, hence please use the [nbviewer](https://nbviewer.jupyter.org/) links provided below to see the results.
+The notebooks do not render properly on GitHub, hence please use the [nbviewer](https://nbviewer.jupyter.org/) links provided below to see the results.
 
 ## Jupyter Notebooks - nbViewer
 
