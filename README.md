@@ -72,11 +72,9 @@ The noteboks do not render properly on GitHub, hence please use the [nbviewer](h
 ## Features
 
 - **Pre Trained Weights** - The weights can directly be downloaded from here: [weights.h5](https://github.com/animikhaich/Semantic-Segmentation-using-AutoEncoders/blob/main/weights.h5) - It is stored using Git LFS.
-- **Fast Inference** - The Speed of Inference for a batch of 32 512x512 images on an Nvidia RTX 2080Ti is just `10.3 µs`.
+- **Fast Inference** - Inference Time for batch of `32` images of `512x512` dimensions with an Nvidia RTX 2080Ti is just `10.3 µs`.
 
 ## Results
-
-Some of the Results of the model:
 
 ![Result 1](assets/result_1.png)
 ![Result 2](assets/result_2.png)
