@@ -76,6 +76,8 @@ The noteboks do not render properly on GitHub, hence please use the [nbviewer](h
 
 ## Results
 
+Images (Left to Right): `Input Image`, `Predicted Image`, `Thresholded Mask @ 0.5`, `Ground Truth Mask`
+
 ![Result 1](assets/result_1.png)
 ![Result 2](assets/result_2.png)
 ![Result 3](assets/result_3.png)
