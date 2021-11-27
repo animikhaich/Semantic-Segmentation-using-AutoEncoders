@@ -78,18 +78,18 @@ The notebooks do not render properly on GitHub, hence please use the [nbviewer](
 
 Images (Left to Right): `Input Image`, `Predicted Image`, `Thresholded Mask @ 0.5`, `Ground Truth Mask`
 
-![Result 1](assets/result_1.png)
-![Result 2](assets/result_2.png)
-![Result 3](assets/result_3.png)
-![Result 4](assets/result_4.png)
-![Result 5](assets/result_5.png)
-![Result 6](assets/result_6.png)
-![Result 7](assets/result_7.png)
-![Result 8](assets/result_8.png)
-![Result 9](assets/result_9.png)
-![Result 10](assets/result_10.png)
-![Result 11](assets/result_11.png)
-![Result 12](assets/result_12.png)
+![Result 1](assets/result_1.jpg)
+![Result 2](assets/result_2.jpg)
+![Result 3](assets/result_3.jpg)
+![Result 4](assets/result_4.jpg)
+![Result 5](assets/result_5.jpg)
+![Result 6](assets/result_6.jpg)
+![Result 7](assets/result_7.jpg)
+![Result 8](assets/result_8.jpg)
+![Result 9](assets/result_9.jpg)
+![Result 10](assets/result_10.jpg)
+![Result 11](assets/result_11.jpg)
+![Result 12](assets/result_12.jpg)
 
 ## How to Run
 
